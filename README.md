@@ -1,0 +1,2 @@
+# AndroidDrawableScaleTest
+测试不同drawable文件夹中的图片资源在不同密度的设备上的加载规则
